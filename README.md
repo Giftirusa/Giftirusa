@@ -41,8 +41,6 @@ Full-Stack Web Developer | Software Engineer
   <br>
 <br>
 <br>
-  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giftirusa&theme=transparent" alt="giftirusa" />
 
 <b>Top Languages</b>
 
